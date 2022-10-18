@@ -1,1 +1,3 @@
 # CustomCovidAnalysis
+
+## Technologies Used
